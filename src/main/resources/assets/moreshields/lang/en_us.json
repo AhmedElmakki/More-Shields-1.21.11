@@ -1,0 +1,13 @@
+{
+  "itemGroup.moreshields": "Example Mod Tab",
+  "block.moreshields.example_block": "Example Block",
+  "item.moreshields.example_item": "Example Item",
+
+  "moreshields.configuration.title": "MoreShields Configs",
+  "moreshields.configuration.section.moreshields.common.toml": "MoreShields Configs",
+  "moreshields.configuration.section.moreshields.common.toml.title": "MoreShields Configs",
+  "moreshields.configuration.items": "Item List",
+  "moreshields.configuration.logDirtBlock": "Log Dirt Block",
+  "moreshields.configuration.magicNumberIntroduction": "Magic Number Text",
+  "moreshields.configuration.magicNumber": "Magic Number"
+}
