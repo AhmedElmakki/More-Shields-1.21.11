@@ -1,13 +1,9 @@
 {
-  "itemGroup.moreshields": "Example Mod Tab",
-  "block.moreshields.example_block": "Example Block",
-  "item.moreshields.example_item": "Example Item",
+  "itemGroup.moreshields": "More Shields",
 
-  "moreshields.configuration.title": "MoreShields Configs",
-  "moreshields.configuration.section.moreshields.common.toml": "MoreShields Configs",
-  "moreshields.configuration.section.moreshields.common.toml.title": "MoreShields Configs",
-  "moreshields.configuration.items": "Item List",
-  "moreshields.configuration.logDirtBlock": "Log Dirt Block",
-  "moreshields.configuration.magicNumberIntroduction": "Magic Number Text",
-  "moreshields.configuration.magicNumber": "Magic Number"
+  "item.moreshields.copper_shield": "Copper Shield",
+  "item.moreshields.iron_shield": "Iron Shield",
+  "item.moreshields.gold_shield": "Gold Shield",
+  "item.moreshields.diamond_shield": "Diamond Shield",
+  "item.moreshields.netherite_shield": "Netherite Shield"
 }
