@@ -4,7 +4,7 @@
     "base": "moreshields:item/oak_base",
     "model": {
       "type": "moreshields:modular_shield",
-      "metal_type": "diamond"
+      "metal_type": "iron"
     }
   }
 }
